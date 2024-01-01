@@ -1,19 +1,18 @@
 # Password Checker
 
-This is a simple password checker project that allows users to check the strength of their passwords.
+This is a Python script that checks the strength of a password.
 
-## Installation
+## Prerequisites
 
-1. Install the required dependencies:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
+- Python 3.x
+- requests library
 
 ## Usage
 
-1. Run the password checker script:
+1. Open a terminal and navigate to the project directory.
+2. Run the script by executing the following command:
 
   ```bash
-  python main.py password1 password2 password3 
+  python main.py <password>
   ```
+
