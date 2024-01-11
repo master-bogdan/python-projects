@@ -7,3 +7,4 @@ Collection of training python projects
 2. #### [PDF Merger](./pdf-merger/README.md)
 3. #### [Password Checker](./password-checker/README.md)
 4. #### [Hacker news scraper](./hacker-news-scraper/README.md)
+5. #### [Hangman](./hangman/README.md)
